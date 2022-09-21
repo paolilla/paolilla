@@ -42,8 +42,8 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
-<a href="" target="_blank"> 
-  <img src="" alt="" width="40" height="40"/> 
+<a href="https://tailwindcss.com" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/> 
 </a>
 
 <a href="" target="_blank"> 
