@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hello!
 I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Development, Data Science and Machine Learning**.
 
-<p align="center"> 
+<p> 
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
 </a>
