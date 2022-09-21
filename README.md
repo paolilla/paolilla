@@ -38,7 +38,10 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 </a>
 </p>
 
+<br/>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paolilla.paolilla)
+
 <!-- 
 <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
