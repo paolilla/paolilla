@@ -55,7 +55,7 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
 <a href="https://jupyter.org" target="_blank"> 
-  <img src="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
 </a>
 </p>
 
