@@ -44,7 +44,7 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
  
-<br/>
+<br/><br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paolilla.paolilla)
 
