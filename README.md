@@ -59,5 +59,3 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 <br/>
 <br/>
 <br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paolilla.paolilla)
