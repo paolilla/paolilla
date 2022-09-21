@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hello!
 I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Development, Data Science and Machine Learning**.
 
-### Languages, frameworks and tools
+### Languages, Frameworks and Tools
 <p> 
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
@@ -39,9 +39,6 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 <a href="https://www.mongodb.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
 </a>
-<a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
 <a href="https://tailwindcss.com" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/> 
 </a>
@@ -54,15 +51,15 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 <a href="https://nodejs.org/en/" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
 </a>
-
-  
-<a href="" target="_blank"> 
-  <img src="" alt="" width="40" height="40"/> 
+<a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
-
+<a href="https://jupyter.org" target="_blank"> 
+  <img src="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
+</a>
 </p>
 
-### Contact
+### Contact Me
 
 <p> 
 <a href="https://www.linkedin.com/in/paola-jimenez-torrez/" target="blank">
