@@ -3,7 +3,7 @@
 -->
 
 ### Hello!
-I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Development, Data Science and Machine Learning**.
+I'm Paola Jiménez. I'm a **Computer Science Engineering student** interested in **Web Development, Data Science and Machine Learning**.
 
 ### Languages, Frameworks and Tools
 <p> 
