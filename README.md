@@ -40,19 +40,11 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 
 ### Contact
 
-<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.linkedin.com/in/paola-jimenez-torrez/" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkeding" width="40" height="40"/></a>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/paola-jimenez-torrez/" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkeding" width="30" height="30"/></a>
+</p>
 
-
-<a href="https://www.linkedin.com/in/paola-jimenez-torrez/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/paola-jimenez-torrez/">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- 
-<br/><br/>
+<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paolilla.paolilla)
 
