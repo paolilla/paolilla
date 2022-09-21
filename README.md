@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hello!
 I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Development, Data Science and Machine Learning**.
 
+### Languages, frameworks and tools
 <p> 
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
@@ -42,9 +43,9 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 
 ### Contact
 
-<p align="center"> 
+<p> 
 <a href="https://www.linkedin.com/in/paola-jimenez-torrez/" target="blank">
-  <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkeding" width="30" height="30"/>
+  <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkeding" width="40" height="40"/>
 </a>
 </p>
 
