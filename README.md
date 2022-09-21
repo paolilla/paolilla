@@ -41,3 +41,6 @@ I'm Paola Jiménez. I'm a **Computer Science student** who is interested in **We
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
 </a>
 </p>
+<summary>Visitors
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=paolilla.paolilla)
+</summary>
