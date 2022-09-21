@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="">
-
-### Hey!
+### Hello!
 I'm Paola Jiménez. I'm a **Computer Science student** who is interested in **Web Development, Data Science and Machine Learning**.
 
 <p align="center"> 
