@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello!
-I'm Paola Jiménez. I'm a **Computer Science student** who is interested in **Web Development, Data Science and Machine Learning**.
+I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Development, Data Science and Machine Learning**.
 
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank">
