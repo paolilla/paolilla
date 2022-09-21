@@ -45,7 +45,17 @@ I'm Paola Jiménez. I'm a **Computer Science student** interested in **Web Devel
 <a href="https://tailwindcss.com" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/> 
 </a>
+<a href="https://getbootstrap.com" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://es.reactjs.org" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org/en/" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+</a>
 
+  
 <a href="" target="_blank"> 
   <img src="" alt="" width="40" height="40"/> 
 </a>
